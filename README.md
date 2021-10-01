@@ -1,5 +1,5 @@
 # Starter Web Project
-This is a simple website project for showing how to use Git and GitHub together
+This is a simple website project for showing how to use Git and GitHub together. Update line for emergency
 
 ## Introduction
 As stated above, the main purpose is to provide simple example for Git training demos.
