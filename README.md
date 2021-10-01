@@ -6,5 +6,5 @@ This is a simple website project for showing how to use Git and GitHub together
 ## Purpose 
 
 ## How to Contribute
-
+Please fork this repository and then issue Pull Requests for review
 
