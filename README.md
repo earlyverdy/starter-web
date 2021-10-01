@@ -8,13 +8,10 @@ As stated above, the main purpose is to provide simple example for Git training 
 This is a simple web project, deployment can be any web server or even local file system.
 
 ## How to Contribute
-<<<<<<< HEAD
 Please fork this repository and then issue Pull Requests for review
-=======
+
 
 ## Copyright
-
 2021 Git. Training.
 
->>>>>>> simple-changes
 
