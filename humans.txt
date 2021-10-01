@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kenneth Verdida 	kennethverds@gmail.com
 
 # THANKS
 
